@@ -3,7 +3,8 @@ educational purpose only
 
 ## Implementation of CBOW in Python with no ML framework (pure NumPy)
 
-In MD files, formulas used in functions code.
+In MD files, formulas are used in functions code.  
+Note: In `Word2vec.ipynb`, there are two versions implemented — without batch and with batch.
 
 # Further Improvements
 
